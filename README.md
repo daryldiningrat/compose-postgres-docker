@@ -11,4 +11,14 @@ __Environtment__
 ```bash
 - POSTGRES_USER=postgres
 - POSTGRES_PASSWORD=postgres
+- PORT = 5432
+```
+
+__Configure DBeaver__
+
+```
+HOST = localhost
+Database = postgres
+Username = postgres
+Password = postgres
 ```
